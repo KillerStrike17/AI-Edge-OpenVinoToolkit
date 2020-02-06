@@ -1,1 +1,1 @@
-This Folder will consists on how to load pretrained model to your intel edge device and its FAQ section will clear some of your doubts. It will also consists code of how to load some pretrained models which i worked on.
+This Folder will consists on how to load pretrained model to your intel edge device and its FAQ section will clear some of your doubts. It will also consists code of how to load some pretrained models which I worked on.
