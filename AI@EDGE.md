@@ -54,7 +54,17 @@ No, it depends on the problem, Sometimes we dont need results in real time. For 
 
 * Latest tech- Smartwatches, Self Driving cars
 
+## OpenVINO Toolkit
+
 ### What is OpenVINO Toolkit
+
+* OpenVINO is **Open V**isual **I**nferencing and Nueral **N**etwork **O**ptimization. 
+
+* It is an open source tool developed by Intel which is used to optimize Neural Network Inference.
+
+* Can work over multiple Frameworks and use its model Optimizer to optimize for inference.
+
+### What OpenVINO Toolkit Consists of?
 
 * Gives Flexibity to the developer to focus on edge application development rather than spending time to fine tune the model over to its speed
 
