@@ -1,5 +1,7 @@
 # AI@Edge-Notes
 
+## Introduction to AI@Edge and Basic FAQs
+
 ### What is AI at Edge?
 
 * Edge means local Processing.
@@ -51,3 +53,14 @@ No, it depends on the problem, Sometimes we dont need results in real time. For 
 * 2000s - Smart Meter
 
 * Latest tech- Smartwatches, Self Driving cars
+
+### What is OpenVINO Toolkit
+
+* Gives Flexibity to the developer to focus on edge application development rather than spending time to fine tune the model over to its speed
+
+* Model Optimizer - Convert a model to Intermediate Representation for further use with the toolkit.
+
+* Open Model Zoo - Obtain a pre-trained Model.
+
+* Inference Engine - Perform inference on an Intermediate Representation.
+
