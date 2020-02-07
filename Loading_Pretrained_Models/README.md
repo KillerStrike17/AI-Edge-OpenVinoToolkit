@@ -34,3 +34,5 @@ This Folder will consists on how to load pretrained model to your intel edge dev
 
 * [**Inception**](https://arxiv.org/abs/1512.02325): It is a model again developed by Google, This model set a high benchmark for ILSVRC4, This network had three output layers which gave a combined result in providing the output.
 
+
+[Pretrained Models provided by Intel](https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models) having the some backend networks mentioned above.
