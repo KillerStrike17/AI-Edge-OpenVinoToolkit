@@ -36,3 +36,7 @@ This Folder will consists on how to load pretrained model to your intel edge dev
 
 
 [Pretrained Models provided by Intel](https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models) having the some backend networks mentioned above.
+
+## Role of Precision
+
+Loading pretrained models with different precisions will result in different accuracy and inference time. Using Floating point numbers will have high memory imapct resulting in slow inference as compared to integer but more accurate inference. Thus based on the usecase, the different precision values have to be used. 
