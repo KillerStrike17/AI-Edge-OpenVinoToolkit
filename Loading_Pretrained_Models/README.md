@@ -40,3 +40,15 @@ This Folder will consists on how to load pretrained model to your intel edge dev
 ## Role of Precision
 
 Loading pretrained models with different precisions will result in different accuracy and inference time. Using Floating point numbers will have high memory imapct resulting in slow inference as compared to integer but more accurate inference. Thus based on the usecase, the different precision values have to be used. 
+
+## Different Usecases of different models:
+
+One model can be used for various applications:
+
+1. Face detection models can detect faces, it can be deployed in cars to identify whether the driver is sleepy or not or can be used in gaming console to check the dreiction of person's head.
+
+2. People detection model can be used inside store to calculate the hotsopt regions and place thier best products in that. 
+
+3. Pose estimation models can be used to access the right postures in exercise. 
+
+There are infinite number of possiblities where they fit and they dont fir, so based on your usecase some models may fit fully, partially or dont fit at all. Just extract the full potencial of these models as they are highly optimized and properly trained. 
